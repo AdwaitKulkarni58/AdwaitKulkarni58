@@ -6,14 +6,20 @@
   
 # What I am doing right now:    
 - I’m currently learning web development!  
-- I have built some projects related to front-end development and I recently made some projects related to APIs. Currently I am studying the MERN stack and to be specific, right now I am learning Express.js.  
+- I have built some projects related to front-end development and I recently made some projects related to APIs and a full stack Netflix clone. Currently I am studying the MERN stack and to be specific, right now I am expanding my knowledge on EJS and Express.js.  
 
 <hr />
+
+# What I believe in:
+- Plan before code!!! This is as important as it gets, having a blueprint and a roadmap of the entire project is a must before writing a single line of code.
+- I love to draw out sketches and list possible approaches to a scenario before deciding on the best one.
+- Design principles matter. You can make your code a lot more faster, efficient, and easier to read by using the SOLID principles.
+- Separation of concerns and singular responsibility. It is really easy to include your styles in your logic file but that does not translate into healthy code style. Build a file structure first and then start writing code as per responsibilities.
 
 # What do my future plans include: (nothing too far ahead I promise)  
 - Learn the backend, especially Mongo. Then learn a Javascript framework, particularly React to complete the MERN stack.  
 - Most importantly, build lots of projects, both small and large to solidify my understanding of different topics and how to combine them together to build a full-stack application from scratch.  
-- One of my personal goals include constructing the backend to the front-end Netflix clone I built a few months ago so that I can tell my friends and family that I recreated Netflix from scratch!   
+- One of my personal goals include adding a database to the Netflix clone I completed recently so that I can tell my friends and family that I recreated a fully functional Netflix from scratch!  
 
 <hr />
 
