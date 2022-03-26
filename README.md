@@ -30,7 +30,7 @@
 <hr />
 
 # How you can contact me:  
-- You can contact me directly by email.  
+- You can contact me directly by email (adwait.kul.2018@gmail.com) or [LinkedIn](linkedin.com/in/AdwaitKulkarni58/).
  <hr />
   
  # Some of my online stats (articles I read, my Github stats, languages used in projects)  
