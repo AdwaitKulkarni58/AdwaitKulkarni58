@@ -34,10 +34,10 @@
  <hr />
   
  # Some of my online stats (articles I read, my GitHub stats, languages used in projects)  
-- <a href="https://app.daily.dev/AdwaitKulkarni"><img src="https://api.daily.dev/devcards/0decd560321c428eba5c57786506b1d7.png?r=9me" width="400" alt="Adwait Kulkarni's Dev Card"/></a>
-- ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitKulkarni58&show_icons=true&theme=radical&count_private)  
-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdwaitKulkarni58&theme=radical)](https://git.io/streak-stats)  
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitKulkarni58&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+<a href="https://app.daily.dev/AdwaitKulkarni"><img src="https://api.daily.dev/devcards/0decd560321c428eba5c57786506b1d7.png?r=9me" width="400" alt="Adwait Kulkarni's Dev Card"/></a>  
+![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitKulkarni58&show_icons=true&theme=radical&count_private)      
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdwaitKulkarni58&theme=radical)](https://git.io/streak-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitKulkarni58&langs_count=12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 <!---
 AdwaitKulkarni58/AdwaitKulkarni58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
