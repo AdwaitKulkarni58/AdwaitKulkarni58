@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AdwaitKulkarni58&color=blue)
 # Who am I:  
 - Hi, I’m Adwait! I am currently in my second-year studying computer science at The University of British Columbia in Vancouver, Canada!  
 - I’m interested in all things programming and logic related! Especially solving puzzles and problems!  
