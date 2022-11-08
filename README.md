@@ -15,7 +15,7 @@
 # What I believe in:
 - Plan before code!!! This is as important as it gets, having a blueprint and a roadmap of the entire project is a must before writing a single line of code.
 - I love to draw out sketches and list possible approaches to a scenario before deciding on the best one.
-- Design principles matter. You can make your code a lot more faster, efficient, and easier to read by using the SOLID principles.
+- Design principles matter. You can make your code a lot more faster, efficient, and easier to read by using industry-standard practices and principles.
 - Separation of concerns and singular responsibility. It is really easy to include your styles in your logic file but that does not translate into healthy code style. Build a file structure first and then start writing code as per responsibilities.
 
 # What do my future plans include: (nothing too far ahead I promise)  
