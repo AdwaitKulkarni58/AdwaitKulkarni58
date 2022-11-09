@@ -6,7 +6,7 @@
 <hr />   
   
 # What I am doing right now:    
-- I'm currently working with Spring Boot applications and RESTful APIs.
+- I'm currently working with Spring Boot applications, RESTful APIs, and microservices.
 - My latest big project was a full-stack application, a user management system which I built using HTML, CSS, and JavaScript(EJS) on the front-end with an Express.js and MongoDB back-end in a Node.js runtime environment.  
 - I have built some projects related to front-end development and I recently made some projects related to APIs and a full stack Netflix clone. Currently I am studying the MERN stack and to be specific, right now I am expanding my knowledge on the Javascript framework React.js.  
 
