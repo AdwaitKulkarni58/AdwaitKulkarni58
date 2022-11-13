@@ -36,8 +36,7 @@
 - You can contact me directly by email (adwait.kul.2018@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/adwaitkulkarni58).
  <hr />
   
- # Some of my online stats (articles I read, my GitHub stats, languages used in projects)  
-<a href="https://app.daily.dev/AdwaitKulkarni"><img src="https://api.daily.dev/devcards/0decd560321c428eba5c57786506b1d7.png?r=9me" width="400" alt="Adwait Kulkarni's Dev Card"/></a>  
+ # Some of my online stats (GitHub stats, languages used in projects)    
 ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitKulkarni58&show_icons=true&theme=radical&count_private)      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdwaitKulkarni58&theme=radical)](https://git.io/streak-stats)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitKulkarni58&langs_count=12&layout=compact&?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
