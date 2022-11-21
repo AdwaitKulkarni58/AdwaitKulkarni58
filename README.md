@@ -19,6 +19,8 @@
 - Separation of concerns and singular responsibility. It is really easy to include your styles in your logic file but that does not translate into healthy code style. Build a file structure first and then start writing code as per responsibilities.
 
 # What do my future plans include: (nothing too far ahead I promise)  
+- Dive back into Python and this time, go the distance and get some good projects on my profile.
+- Update my personal portfolio because it is really basic and not at all helpful right now.
 - Learn about React.js to complete my understanding of the MERN stack.
 - Also become familiar with mircroservices.
 - Make more meaningful contributions to open source and interact with the community to get an understanding of what the best code practices are, how code reviews should be conducted, what types of issues today's developers are facing and how open source tools can be used to solve those issues.
