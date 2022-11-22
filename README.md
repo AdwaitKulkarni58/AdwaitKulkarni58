@@ -40,7 +40,6 @@
   
  # Some of my online stats (GitHub stats, languages used in projects)    
 ![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitKulkarni58&show_icons=true&theme=radical&count_private)      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdwaitKulkarni58&theme=radical)](https://git.io/streak-stats)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitKulkarni58&langs_count=12&layout=compact&?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 <!---
 AdwaitKulkarni58/AdwaitKulkarni58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
