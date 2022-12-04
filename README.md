@@ -39,7 +39,7 @@
  <hr />
   
  # Some of my online stats (GitHub stats, languages used in projects)    
-![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitKulkarni58&show_icons=true&theme=radical&count_private)      
+![Adwait's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitKulkarni58&show_icons=true&theme=radical&count_private)       
 
 <!---
 AdwaitKulkarni58/AdwaitKulkarni58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
