@@ -25,7 +25,7 @@
 - Dive back into Python and this time, go the distance and get some good projects on my profile.
 - Update my personal portfolio because it is really basic and not at all helpful right now.
 - Learn about React.js to complete my understanding of the MERN stack.
-- Also become familiar with mircroservices.
+- Also become familiar with microservices.
 - Make more meaningful contributions to open source and interact with the community to get an understanding of what the best code practices are, how code reviews should be conducted, what types of issues today's developers are facing and how open source tools can be used to solve those issues.
 - Most importantly, build lots of projects, both small and large to solidify my understanding of different topics and how to combine them together to build a full-stack application from scratch.  
 
