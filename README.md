@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=AdwaitKulkarni58&color=blue)
 # Who am I:  
-- Hi, I’m Adwait! I am currently in my second-year studying computer science at The University of British Columbia in Vancouver, Canada!  
+- Hi, I’m Adwait! I am currently in my third-year studying computer science at The University of British Columbia in Vancouver, Canada!  
 - I’m interested in all things programming and logic related! Especially solving puzzles and problems!  
   
 <hr />   
   
 # What I am doing right now:    
 - I'm currently working with Spring Boot applications, RESTful APIs, and microservices.
-- My latest big project was a full-stack application, a user management system which I built using HTML, CSS, and JavaScript(EJS) on the front-end with an Express.js and MongoDB back-end in a Node.js runtime environment.  
+- My latest big project was a full-stack images gallery application I built using React.js on the front-end with Python Flask for the backend in a Node.js runtime environment.  
 - I have built some projects related to front-end development and I recently made some projects related to APIs and a full stack Netflix clone.  
 - I am also learning Apache Kafka on the side as well upskilling myself on Python.
 
@@ -23,8 +23,6 @@
 
 # What do my future plans include: (nothing too far ahead I promise)  
 - Dive back into Python and this time, go the distance and get some good projects on my profile.
-- Update my personal portfolio because it is really basic and not at all helpful right now.
-- Learn about React.js to complete my understanding of the MERN stack.
 - Also become familiar with microservices.
 - Make more meaningful contributions to open source and interact with the community to get an understanding of what the best code practices are, how code reviews should be conducted, what types of issues today's developers are facing and how open source tools can be used to solve those issues.
 - Most importantly, build lots of projects, both small and large to solidify my understanding of different topics and how to combine them together to build a full-stack application from scratch.  
