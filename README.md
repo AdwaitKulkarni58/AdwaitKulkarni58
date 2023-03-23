@@ -8,7 +8,7 @@
 # What I am doing right now:    
 - I'm currently working with Spring Boot applications, RESTful APIs, and microservices.
 - My latest big project was a full-stack images gallery application I built using React.js on the front-end with Python Flask for the backend in a Node.js runtime environment.  
-- I have built some projects related to front-end development and I recently made some projects related to APIs and a full stack Netflix clone.  
+- I have built some projects related to front-end development and I recently made some projects related to APIs and a full stack Amazon Canada website clone.  
 - I am also learning Apache Kafka on the side as well upskilling myself on Python.
 
 <hr />
