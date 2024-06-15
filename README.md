@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=AdwaitKulkarni58&color=blue)
-
 # Who am I:  
 - Hi, I’m Adwait! I am currently in my fourth year majoring in Computer Science and minoring in Data Science at the University of British Columbia in Vancouver, Canada!  
 - I’m interested in all things programming and logic-related! I especially have a keen interest in real-time analysis of data and am trying to build projects that expose me to the same!
@@ -38,6 +37,12 @@
 # How you can contact me:  
 - You can contact me directly by email (adwait.kul.2018@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/adwaitkulkarni58).
  <hr />  
+
+<div align=center>
+
+## 👑Trophy👑
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=AdwaitKulkarni58&theme=algolia&column=-1&rank=-?"></a>
+</div>
 
 <!---
 AdwaitKulkarni58/AdwaitKulkarni58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
