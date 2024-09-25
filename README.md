@@ -37,13 +37,6 @@
 # How you can contact me:  
 - You can contact me directly by email (adwait.kul.2018@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/adwaitkulkarni58).
  <hr />  
-
-<div align=center>
-
-## 👑Trophy👑
-<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=AdwaitKulkarni58&theme=algolia&column=-1&rank=-?"></a>
-</div>
-
 <!---
 AdwaitKulkarni58/AdwaitKulkarni58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
