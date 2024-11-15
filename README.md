@@ -20,8 +20,8 @@
 
 <hr />
 
-# What my future plans include: (nothing too far ahead I promise)  
-- Get my AWS AI Rractitioner badge along with other Developer badges.
+# What my plans include: (nothing too far ahead I promise)  
+- Get my AWS AI Practitioner badge along with other Developer badges.
 - Build end-to-end ML pipelines to analyze sport-related data and deploy these pipelines in the cloud.
 - Make more meaningful contributions to open source and interact with the community to get an understanding of what the best code practices are, how code reviews should be conducted, what types of issues today's developers are facing, and how open source tools can be used to solve those issues.
 - Most importantly, convert some of my ideas into code and solidify my understanding of different topics about how to combine them to build full-stack applications.  
