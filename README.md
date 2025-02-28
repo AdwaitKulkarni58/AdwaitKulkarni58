@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AdwaitKulkarni58&color=blue)
 # Who am I:  
-- Hi, I’m Adwait! I am currently in my fourth year majoring in Computer Science and minoring in Data Science at the University of British Columbia in Vancouver, Canada!  
+- Hi, I’m Adwait! I am currently in my final year majoring in Computer Science and minoring in Data Science at the University of British Columbia in Vancouver, Canada!  
 - I’m interested in all things programming and logic-related! I especially have a keen interest in real-time analysis of data and am trying to build projects that expose me to the same!
 - A weird thing about me is that I always have ideas for potential projects running through my mind throughout the day even though I hardly get the time to build any.
   
