@@ -7,7 +7,7 @@
 <hr />   
   
 # What I am doing right now:    
-- I'm currently building projects using machine learning, data science, and cloud platforms like AWS, and integrating message-based systems like RabbitMQ into these projects. I have also worked extensively with Spring Boot applications, RESTful APIs, MERN stack technologies, and microservices.
+- I'm currently building projects using machine learning, AI, data science, and cloud platforms like AWS, and integrating message-based systems like RabbitMQ into these projects. I have also worked extensively with Spring Boot applications, RESTful APIs, MERN stack technologies, and microservices.
 - I am also actively working on multiple full-stack projects, and one of these includes a full-stack e-commerce store that I created from scratch recently!  
 
 <hr />
